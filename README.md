@@ -5,3 +5,8 @@
 - 🤔 I’m looking for help with everything because Git is hard to understand.
 - 📫 How to reach me: hanrryoliveirastolze@gmail.com
 - ⚡ Fun fact: Humanity is a lost cause.
+ 
+ ##
+ 
+ <div>
+<a href=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 
